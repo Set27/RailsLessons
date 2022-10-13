@@ -8,3 +8,5 @@
 Как написать тест в PagesControllerTest корректный тест на ответ от основной странички?
 
 Почему css не работает на форме forgot_pass я ж указал такой же id как и в прошлой форме?
+
+https://salty-cliffs-50017.herokuapp.com/#
