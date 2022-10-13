@@ -99,7 +99,7 @@
      padding-bottom: 3px;
      text-align: center;
  }
- #signin button[type="submit"]:hover{
+ #signin button[type="submit"]:hover{   
      color: rgb(0, 126, 165);
      text-shadow: 0 0 10px rgb(0, 126, 165);
      cursor: pointer;
@@ -118,3 +118,10 @@
  #signin p > a:hover{
      border-bottom: 1px solid;
  }
+
+ #forgot_pass{
+    text-align: center;
+    margin-top: 200px;
+    border-radius: 8px;
+ }
+
