@@ -1,22 +1,10 @@
-# RubyonRails lesson1
+# RubyonRails question
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Всё что я задаю ниже я пробовал гуглить!
 
-Things you may want to cover:
+Почему не работает href на forgot_pass страницу? Локально работает, на хероку нет. Я так понимаю я локально указал путь, а Хероку не понимает
+как сделать чтобы понимал?
 
-* Ruby version
+Как написать тест в PagesControllerTest корректный тест на ответ от основной странички?
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+Почему css не работает на форме forgot_pass я ж указал такой же id как и в прошлой форме?
